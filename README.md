@@ -96,7 +96,7 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 | Platform | Achievement |
 |---|---|
 | 🍴 **CodeChef** | 4-Star ⭐⭐⭐⭐ &nbsp;\|&nbsp; Peak Rating **1861** &nbsp;\|&nbsp; Global Rank **56** |
-| 💙 **Codeforces** | Pupil &nbsp;\|&nbsp; Peak Rating **1214** |
+| 💙 **Codeforces** | Pupil &nbsp;\|&nbsp; Peak Rating **1327** |
 
 
 ---
