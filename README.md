@@ -71,6 +71,7 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 
 | Project | Description | Tech |
 |---|---|---|
+| [🤖 InferHub](https://github.com/NakulMantri/InferHub) | Distributed LLM Inference Gateway — scalable, fault-tolerant inference routing across multiple model backends | Python, Distributed Systems |
 | [⚡ MultiThreaded WebServer](https://github.com/NakulMantri/MultiThreadedWebServer) | Thread-pool TCP server — 834K req/min at 56ms avg latency, handles 1M+ requests | Java, TCP, Apache JMeter |
 | [📨 OrderMesh](https://github.com/NakulMantri/OrderMesh) | Fault-tolerant event-driven distributed system — 40K+ events at 990+ msg/sec, zero message loss | Apache Kafka, Python, Docker |
 | [🌦️ Weatherify](https://github.com/NakulMantri/Weatherify) | Full-stack weather analytics platform with ARIMA forecasting — 50% API latency reduction | React.js, Django, SQLite |
