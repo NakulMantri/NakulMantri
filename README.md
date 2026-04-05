@@ -74,8 +74,6 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 | [⚡ MultiThreaded WebServer](https://github.com/NakulMantri/MultiThreadedWebServer) | Thread-pool TCP server — 834K req/min at 56ms avg latency, handles 1M+ requests | Java, TCP, Apache JMeter |
 | [📨 OrderMesh](https://github.com/NakulMantri/OrderMesh) | Fault-tolerant event-driven distributed system — 40K+ events at 990+ msg/sec, zero message loss | Apache Kafka, Python, Docker |
 | [🌦️ Weatherify](https://github.com/NakulMantri/Weatherify) | Full-stack weather analytics platform with ARIMA forecasting — 50% API latency reduction | React.js, Django, SQLite |
-| [💬 Real-Time Chat App](https://github.com/NakulMantri/Real_time_chat_application) | MVC real-time chat using WebSockets | Node.js, Socket.io, EJS |
-| [🏡 TRAVELAGO](https://github.com/NakulMantri/TRAVELAGO-MERN) | Vacation home renting platform (MERN stack) | MongoDB, Express, React, Node.js |
 
 ---
 
@@ -99,7 +97,7 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 |---|---|
 | 🍴 **CodeChef** | 4-Star ⭐⭐⭐⭐ &nbsp;\|&nbsp; Peak Rating **1861** &nbsp;\|&nbsp; Global Rank **56** |
 | 💙 **Codeforces** | Pupil &nbsp;\|&nbsp; Peak Rating **1214** |
-| 📗 **GeeksforGeeks** | Active contributor |
+
 
 ---
 
