@@ -16,6 +16,7 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 - 💼 Currently **Software Engineer @ CGI Inc.**, Hyderabad
 - 🔬 Ex **SWE Intern @ IIT Delhi** under Prof. Chetan Arora
 - ⚡ **CodeChef 4-Star** — Peak Rating **1861** | Global Rank **56**
+- ⚡ **Codeforces Specialist**— Peak Rating **1480** | Global Rank **242**
 - 🧠 **600+** problems solved across LeetCode, Codeforces, CodeChef & GFG
 - 🌍 Based in **Hyderabad, Telangana, India**
 
@@ -97,7 +98,7 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 | Platform | Achievement |
 |---|---|
 | 🍴 **CodeChef** | 4-Star ⭐⭐⭐⭐ &nbsp;\|&nbsp; Peak Rating **1861** &nbsp;\|&nbsp; Global Rank **56** |
-| 💙 **Codeforces** | Specialist &nbsp;\|&nbsp; Peak Rating **1480** |&nbsp; Global Rank **242** |
+| 💙 **Codeforces** | Specialist &nbsp;\|&nbsp; Peak Rating **1480** &nbsp;\|&nbsp; Global Rank **242** |
 
 
 ---
