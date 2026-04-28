@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakul-mantri-2323b6244)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakulmantri22@gmail.com)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/reckless_22)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/wreck_22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NakulMantri)
 
 ---
@@ -15,7 +16,7 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 - 💼 Currently **Software Engineer @ CGI Inc.**, Hyderabad
 - 🔬 Ex **SWE Intern @ IIT Delhi** under Prof. Chetan Arora
 - ⚡ **CodeChef 4-Star** — Peak Rating **1861** | Global Rank **56**
-- ⚡ **Codeforces Specialist**— Peak Rating **1480** | Global Rank **242**
+- ⚡ **Codeforces Specialist**— Peak Rating **1594** | Global Rank **99**
 - 🧠 **600+** problems solved across LeetCode, Codeforces, CodeChef & GFG
 - 🌍 Based in **Hyderabad, Telangana, India**
 
@@ -97,7 +98,7 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 | Platform | Achievement |
 |---|---|
 | 🍴 **CodeChef** | 4-Star ⭐⭐⭐⭐ &nbsp;\|&nbsp; Peak Rating **1861** &nbsp;\|&nbsp; Global Rank **56** |
-| 💙 **Codeforces** | Specialist &nbsp;\|&nbsp; Peak Rating **1480** &nbsp;\|&nbsp; Global Rank **242** |
+| 💙 **Codeforces** | Specialist &nbsp;\|&nbsp; Peak Rating **1594** &nbsp;\|&nbsp; Global Rank **99** |
 
 
 ---
