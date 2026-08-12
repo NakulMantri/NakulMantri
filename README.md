@@ -48,13 +48,11 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 
 ## 🏆 Competitive Programming
 
-| Platform                                                | Achievement                                                                   |
-| ------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 🟧 **[LeetCode](https://leetcode.com/u/mantrinakul4/)** | Knight 🏅 | Peak Rating **1904** | Global Rank **735** | 🔥 **80-Day Streak** |
-| 🍴 **CodeChef**                                         | 5-Star ⭐⭐⭐⭐⭐ | Peak Rating **2043** | Global Rank **14**                      |
-| 💙 **Codeforces**                                       | Specialist | Peak Rating **1594** | Global Rank **99**                        |
+| Platform                                                      | Achievement                                                                   |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 🟧 **[LeetCode](https://leetcode.com/u/mantrinakul4/)**       | Knight 🏅 | Peak Rating **1904** | Global Rank **735** | 🔥 **80-Day Streak** |
+| 🍴 **[CodeChef](https://www.codechef.com/users/reckless_22)** | 5-Star ⭐⭐⭐⭐⭐ | Peak Rating **2043** | Global Rank **14**                      |
 
----
 
 ## 📬 Let's Connect
 
