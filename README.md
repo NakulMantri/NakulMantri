@@ -100,18 +100,6 @@ I'm a **Software Engineer** passionate about building **high-performance, scalab
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/NakulMantri">
-    <img src="https://github-readme-stats.vercel.app/api?username=NakulMantri&show_icons=true&theme=transparent&rank_icon=github&border_color=2f353c" alt="Nakul's GitHub Stats" />
-  </a>
-  <a href="https://github.com/NakulMantri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakulMantri&layout=compact&theme=transparent&border_color=2f353c" alt="Nakul's Top Languages" />
-  </a>
-</p>
-
----
 
 ## 📬 Let's Connect
 
